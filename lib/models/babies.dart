@@ -23,3 +23,5 @@ class Babies {
     }
   }
 }
+
+class Car {}
